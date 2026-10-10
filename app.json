@@ -1,0 +1,14 @@
+ "expo": {
+    "name": "StudyBlock",
+    "slug": "studyblock",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#6677df"
+    },
+    "android": {
+      "package": "com.studyblock.app"
+    }
+  }
+}
